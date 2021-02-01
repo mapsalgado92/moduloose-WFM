@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moduloose/static/css/main.e972d0ba.chunk.css",
+    "main.js": "/moduloose/static/js/main.0cf9f069.chunk.js",
+    "main.js.map": "/moduloose/static/js/main.0cf9f069.chunk.js.map",
+    "runtime-main.js": "/moduloose/static/js/runtime-main.7b12191d.js",
+    "runtime-main.js.map": "/moduloose/static/js/runtime-main.7b12191d.js.map",
+    "static/css/2.150d169a.chunk.css": "/moduloose/static/css/2.150d169a.chunk.css",
+    "static/js/2.14f0941f.chunk.js": "/moduloose/static/js/2.14f0941f.chunk.js",
+    "static/js/2.14f0941f.chunk.js.map": "/moduloose/static/js/2.14f0941f.chunk.js.map",
+    "index.html": "/moduloose/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/moduloose/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e972d0ba.chunk.css.map": "/moduloose/static/css/main.e972d0ba.chunk.css.map",
+    "static/js/2.14f0941f.chunk.js.LICENSE.txt": "/moduloose/static/js/2.14f0941f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b12191d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.14f0941f.chunk.js",
+    "static/css/main.e972d0ba.chunk.css",
+    "static/js/main.0cf9f069.chunk.js"
+  ]
+}
